@@ -5,7 +5,7 @@ import { StatsCard } from '@/components/dashboard/StatsCard'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from '@/components/ui/dialog'
-import { TransactionForm } from '@/components/transactions/TransactionForm'
+import TransactionForm from '@/components/transactions/TransactionForm'
 import { Badge } from '@/components/ui/badge'
 import {
   AreaChart, Area, XAxis, YAxis, CartesianGrid,
